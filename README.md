@@ -8,7 +8,8 @@ The chatbot works through a command-line interface and demonstrates fundamental 
 
 FEATURE OF THE PROJECT :
 Interective chat;greeting recognition;basic q&a;joke telling;date&time display
-STEP TO INSTALL AND RUN THE THE PROJECT
+
+STEP TO INSTALL AND RUN THE THE PROJECT:
 Install python
 save the  code
 open terminal
